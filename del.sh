@@ -1,7 +1,8 @@
 #! /bin/bash
 
 rm -rf hari
-echo "folder removed successfully"
+echo "folder removed successfly
+something has changed
 
 
 
